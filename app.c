@@ -1,6 +1,6 @@
 /*
  * app.c
  *
- * author: Jonn
- * update: 2025/4/5
+ * author: John Smith
+ * update: 2025/4/10
  */
