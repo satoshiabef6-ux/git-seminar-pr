@@ -1,6 +1,6 @@
 /*
  * app.c
- * application top module
- * 
- * author: John
+ *
+ * author: Jonn
+ * update: 2025/4/5
  */
